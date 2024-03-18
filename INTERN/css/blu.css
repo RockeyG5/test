@@ -1,0 +1,13 @@
+
+    body
+    {
+    background-color:rgba(53, 0, 199, 0.775);
+    background-image: url("https://images.shiksha.com/mediadata/images/1490698832phpOQXu5i_g.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    }
+    h1 {color:rgb(166, 35, 35); text-align:center;}
+    p{
+        color:green
+    }
